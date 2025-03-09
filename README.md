@@ -2,7 +2,6 @@
 dmurray_padawan360_body_mega control system for R2-D2
 
 Heavily influenced by Dan Kraus padawan 360 code 
-dskraus@gmail.com
 Astromech: danomite4047
 Project Site: https://github.com/dankraus/padawan360/
 
